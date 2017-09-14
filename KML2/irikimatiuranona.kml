@@ -12,18 +12,10 @@
 <width>2</width>
 </LineStyle>
 <PolyStyle>
-
-
-<!--
-<color>7f000000</color>
--->
-<color>0a1400ff</color>
-
-
+<color>7f00007f</color>
 <fill>1</fill>
 </PolyStyle>
 </Style>
-
 
 
  <Folder>
