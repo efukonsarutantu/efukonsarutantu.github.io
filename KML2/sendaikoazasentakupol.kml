@@ -39,14 +39,15 @@
  <Style id="Pol-ffe7e7e7">
  
 <LineStyle>
-<color>ffffffff</color>
+<color>ff0000ff</color>
 <width>2</width>
 </LineStyle>
+<PolyStyle>
+<color>7f000000</color>
+<fill>0</fill>
+</PolyStyle>
+</Style>
 
- <PolyStyle>
-   <color>ffe7e7e7</color>
-   <outline>2</outline>
-  </PolyStyle>
  </Style>
 
 
