@@ -37,6 +37,14 @@
     <Placemark>
      <name>白浜町</name>
      <styleUrl>#Pol-ffe7e7e7</styleUrl>
+
+		<Style>
+			<PolyStyle>
+				<color>7f00ff00</color>
+				<outline>2</outline>
+			</PolyStyle>
+		</Style>
+
      <Polygon>
       <extrude>0</extrude>
       <tessellate>0</tessellate>
