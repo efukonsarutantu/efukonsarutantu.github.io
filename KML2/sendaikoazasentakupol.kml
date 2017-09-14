@@ -4,6 +4,9 @@
 <name>川内</name>
 <visibility>1</visibility>
 <open>1</open>
+
+<!--
+
 <Style id="default_fill">
  <PolyStyle>
   <color>7f00ffff</color>
@@ -28,6 +31,9 @@
    <outline>2</outline>
   </PolyStyle>
  </Style>
+
+-->
+
  <Folder>
   <description>
   
