@@ -34,6 +34,26 @@
 
 -->
 
+
+
+ <Style id="Pol-ffe7e7e7">
+ 
+<LineStyle>
+<color>ffffffff</color>
+<width>2</width>
+</LineStyle>
+
+ <PolyStyle>
+   <color>ffe7e7e7</color>
+   <outline>2</outline>
+  </PolyStyle>
+ </Style>
+
+
+
+
+
+
  <Folder>
   <description>
   
@@ -48,7 +68,7 @@
    <open>1</open>
     <Placemark>
      <name>白浜町</name>
-     <styleUrl>#Pol-ffe7e7e7___</styleUrl>
+     <styleUrl>#Pol-ffe7e7e7</styleUrl>
 
      <Polygon>
       <extrude>0</extrude>
