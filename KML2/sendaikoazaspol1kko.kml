@@ -6,7 +6,7 @@
 <open>1</open>
 <Style id="default_fill">
  <PolyStyle>
-  <color>0f00ffff</color>
+  <color>7f00ffff</color>
   <outline>0</outline>
  </PolyStyle>
 </Style>
@@ -18,7 +18,7 @@
 </Style>
  <Style id="Pol-ffe7e7e7">
   <PolyStyle>
-   <color>ffe7e7e7</color>
+   <color>00e7e7e7</color>
    <outline>0</outline>
   </PolyStyle>
  </Style>
