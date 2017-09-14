@@ -4,24 +4,18 @@
 <name>川内</name>
 <visibility>1</visibility>
 <open>1</open>
+
 <Style id="default_fill">
- <PolyStyle>
-  <color>7f00ffff</color>
-  <outline>0</outline>
- </PolyStyle>
+<LineStyle>
+<color>ff0000ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f000000</color>
+<fill>0</fill>
+</PolyStyle>
 </Style>
-<Style id="default_line">
- <LineStyle>
-  <color>ff0000ff</color>
-  <width>2</width>
- </LineStyle>
-</Style>
- <Style id="Pol-ffe7e7e7">
-  <PolyStyle>
-   <color>00000000</color>
-   <outline>0</outline>
-  </PolyStyle>
- </Style>
+
  <Folder>
   <description>
   
