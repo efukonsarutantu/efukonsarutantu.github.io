@@ -17,7 +17,13 @@
  </LineStyle>
 </Style>
  <Style id="Pol-ffe7e7e7">
-  <PolyStyle>
+ 
+<LineStyle>
+<color>ff0000ff</color>
+<width>2</width>
+</LineStyle>
+
+ <PolyStyle>
    <color>ffe7e7e7</color>
    <outline>2</outline>
   </PolyStyle>
@@ -44,6 +50,9 @@
 				<outline>2</outline>
 			</PolyStyle>
 		</Style>
+
+
+
 
      <Polygon>
       <extrude>0</extrude>
