@@ -1388,7 +1388,7 @@
     </Placemark>
     <Placemark>
      <name>入来町浦之名</name>
-     <styleUrl>#Pol-ffe7e7e7</styleUrl>
+     <styleUrl>#default_fill1</styleUrl>
      <Polygon>
       <extrude>0</extrude>
       <tessellate>0</tessellate>
