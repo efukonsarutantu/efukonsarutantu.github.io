@@ -279,6 +279,12 @@
       </outerBoundaryIs>
      </Polygon>
     </Placemark>
+
+
+<!--
+
+
+
     <Placemark>
      <name>久住町</name>
      <styleUrl>#Pol-ffe7e7e7</styleUrl>
@@ -3977,6 +3983,13 @@
       </outerBoundaryIs>
      </Polygon>
     </Placemark>
+
+
+-->
+
+
+
+
   </Folder>
  </Folder>
 </Document>
