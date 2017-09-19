@@ -4,6 +4,7 @@
 <name>川内管轄_05%</name>
 <visibility>1</visibility>
 <open>1</open>
+
 <Style id="default_fill">
 <LineStyle>
 <color>ff0000ff</color>
@@ -14,12 +15,7 @@
 <fill>1</fill>
 </PolyStyle>
 </Style>
-<Style id="default_line">
- <LineStyle>
-  <color>ff0000ff</color>
-  <width>2</width>
- </LineStyle>
-</Style>
+
  <Folder>
   <description>
   
