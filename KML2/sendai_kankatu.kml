@@ -5,14 +5,14 @@
 <visibility>1</visibility>
 <open>1</open>
 <Style id="default_fill">
- <PolyStyle>
-  <color>7f00ffff</color>
-  <outline>1</outline>
- </PolyStyle>
 <LineStyle>
 <color>ff0000ff</color>
 <width>2</width>
 </LineStyle>
+<PolyStyle>
+<color>7f00007f</color>
+<fill>1</fill>
+</PolyStyle>
 </Style>
 <Style id="default_line">
  <LineStyle>
