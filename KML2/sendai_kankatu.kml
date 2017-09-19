@@ -7,7 +7,7 @@
 <Style id="default_fill">
  <PolyStyle>
   <color>7f00ffff</color>
-  <outline>0</outline>
+  <outline>1</outline>
  </PolyStyle>
 </Style>
 <Style id="default_line">
